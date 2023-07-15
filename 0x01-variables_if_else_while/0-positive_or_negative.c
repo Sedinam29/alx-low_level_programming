@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main -  random number to the variable n each time it is executed
- * Description: 'print whether the number stored in the variable n is positive or negative'
+ * main -  random number to the var n each time it is executed
+ * Description: 'whether the number stored in the variable n is pos or neg'
  * Return: 0 (Sucess)
  */
 int main(void)
